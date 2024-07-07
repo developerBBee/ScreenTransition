@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">ScreenTransition</string>
+
+    <string name="screen_1_title">画面 1</string>
+    <string name="screen_2_title">画面 2</string>
+    <string name="screen_3_title">画面 3</string>
+    <string name="screen_4_title">画面 4</string>
+    <string name="screen_5_title">画面 5</string>
+
+    <string name="screen_1_headline">第一画面</string>
+    <string name="screen_2_headline">第二画面</string>
+    <string name="screen_3_headline">第三画面</string>
+    <string name="screen_4_headline">第四画面</string>
+    <string name="screen_5_headline">第五画面</string>
+
+    <string name="next">次へ</string>
+    <string name="back">戻る</string>
+</resources>

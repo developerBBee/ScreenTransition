@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_1_title">Screen 1</string>
+    <string name="screen_2_title">Screen 2</string>
+    <string name="screen_3_title">Screen 3</string>
+    <string name="screen_4_title">Screen 4</string>
+    <string name="screen_5_title">Screen 5</string>
+
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="screen_1_headline">First Screen</string>
+    <string name="screen_2_headline">Second Screen</string>
+    <string name="screen_3_headline">Third Screen</string>
+    <string name="screen_4_headline">Fourth Screen</string>
+    <string name="screen_5_headline">Fifth Screen</string>
+</resources>
